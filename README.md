@@ -1,8 +1,11 @@
 # Microservices Architectures - Practices with JHipster
 
-## Henrique Figueiredo Conte, Teodor Neagu, Tetiana Yakovenko
+Authors: 
+    Henrique Figueiredo Conte
+    Teodor Neagu
+    Tetiana Yakovenko
 
-## January 2023
+January 2023
 
 ## 1 Introduction
 
