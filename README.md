@@ -18,7 +18,7 @@ was made by the following group:
 
 
 ```
-The source code is available on a Github repository.
+The source code is available on this Github repository.
 ```
 ## 2 Tasks
 
