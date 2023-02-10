@@ -54,9 +54,7 @@ a screenshot of our monitoring dashboard:
 ```
 Figure 3: GKE monitoring dashboard
 ```
-## 2.4 Load injection with Gatling for demonstrating scala-
-
-## bility
+## 2.4 Load injection with Gatling for demonstrating scalability
 
 Unfortunately, we didn’t understand how Gatling works in order to demonstrate
 scalability. According to the settings we defined, we believe our cluster will au-
