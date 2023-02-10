@@ -18,6 +18,8 @@ was made by the following group:
 - Tetiana Yakovenko - Github - tetiana.yakovenko@grenoble-inp.org
 - Teodor Neagu - Github - teodor.neagu@grenoble-inp.org
 
+
+
 ```
 The source code is available on a Github repository.
 ```
@@ -29,6 +31,8 @@ The first task was to deploy microservices with JHipster on GCP. In order to do
 that, we followed the tutorial given by the teacher, and after following all the
 steps from theGenerate the microservices architecture, we deployed the services
 to GCP:
+
+<img width="1140" alt="gke_container_registry" src="https://user-images.githubusercontent.com/46463790/218149997-a3b1e485-897c-4278-b500-ea240e825db8.png">
 
 
 ```
@@ -43,6 +47,7 @@ In order to enable scalability for at least one microservice, we followed the tu
 from Google, Scaling an application. The tutorial taught us how to enable auto
 scaling for a Kubernetes cluster.
 
+<img width="1127" alt="gke_scalability" src="https://user-images.githubusercontent.com/46463790/218150156-55b17978-3ebe-4ae7-b3fe-1b49e29eb770.png">
 
 ```
 Figure 2: Kubernetes cluster auto scaling
@@ -53,6 +58,7 @@ The Kubernetes Engine from Google Cloud already provides a monitoring dash-
 board, showing metrics such as allocatable CPU cores and total memory. Here is
 a screenshot of our monitoring dashboard:
 
+<img width="1440" alt="monitoring" src="https://user-images.githubusercontent.com/46463790/218150248-72478991-16fe-4ed1-8f79-57d305f9394a.png">
 
 ```
 Figure 3: GKE monitoring dashboard
