@@ -1,6 +1,4 @@
-# Microservices Architectures - Practices with
-
-# JHipster
+# Microservices Architectures - Practices with JHipster
 
 ## Henrique Figueiredo Conte, Teodor Neagu, Tetiana Yakovenko
 
