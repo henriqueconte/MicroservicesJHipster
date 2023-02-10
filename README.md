@@ -11,8 +11,7 @@ The goal of the project is to practice microservices architecture using JHipster
 Google Cloud Platform (GCP), Prometheus, Grafana and Gatling. The project
 was made by the following group:
 
-- Henrique Figueiredo Conte - Github - henrique.figueiredo-conte@grenoble-
-    inp.org
+- Henrique Figueiredo Conte - Github - henrique.figueiredo-conte@grenoble-inp.org
 - Tetiana Yakovenko - Github - tetiana.yakovenko@grenoble-inp.org
 - Teodor Neagu - Github - teodor.neagu@grenoble-inp.org
 
